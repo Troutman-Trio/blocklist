@@ -3,3 +3,6 @@
 
 # [endor.lan]
 0.0.0.0 endor.lan
+
+# [jamfcloud.com]
+0.0.0.0 (^*|\.)jamfcloud.com$
