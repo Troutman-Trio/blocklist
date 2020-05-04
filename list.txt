@@ -1,8 +1,9 @@
-# [sophosxl.net]
-0.0.0.0 (^*|\.)sophosxl.net$
+# [sophos]
+sophosxl.net
+sophos.com
 
 # [endor.lan]
-0.0.0.0 endor.lan
+endor.lan
 
 # [jamfcloud.com]
-0.0.0.0 (^*|\.)jamfcloud.com$
+jamfcloud.com
