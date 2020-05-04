@@ -1,2 +1,5 @@
 # [sophosxl.net]
 0.0.0.0 sophosxl.net
+
+# [endor.lan]
+0.0.0.0 endor.lan
